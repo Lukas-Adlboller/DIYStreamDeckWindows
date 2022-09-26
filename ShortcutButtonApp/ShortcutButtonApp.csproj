@@ -13,9 +13,31 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="apiCredentials.json" />
+    <None Remove="youtube-dl.exe" />
+    <None Remove="yt-dlp.exe" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="apiCredentials.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.YouTube.v3" Version="1.57.0.2756" />
     <PackageReference Include="NAudio" Version="2.1.0" />
+    <PackageReference Include="SpotifyAPI.Web" Version="6.3.0" />
+    <PackageReference Include="SpotifyAPI.Web.Auth" Version="6.3.0" />
     <PackageReference Include="System.IO.Ports" Version="6.0.0" />
     <PackageReference Include="System.Management" Version="6.0.0" />
+    <PackageReference Include="TagLibSharp" Version="2.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="yt-dlp.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
   </ItemGroup>
 
 </Project>

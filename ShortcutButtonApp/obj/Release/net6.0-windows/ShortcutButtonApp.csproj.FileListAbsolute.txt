@@ -33,3 +33,15 @@ C:\Users\lukas\Desktop\ShortcutButtonApp\ShortcutButtonApp\bin\Release\net6.0-wi
 C:\Users\lukas\Desktop\ShortcutButtonApp\ShortcutButtonApp\bin\Release\net6.0-windows\NAudio.Wasapi.dll
 C:\Users\lukas\Desktop\ShortcutButtonApp\ShortcutButtonApp\bin\Release\net6.0-windows\NAudio.WinForms.dll
 C:\Users\lukas\Desktop\ShortcutButtonApp\ShortcutButtonApp\bin\Release\net6.0-windows\NAudio.WinMM.dll
+C:\Users\lukas\Desktop\ShortcutButtonApp\ShortcutButtonApp\bin\Release\net6.0-windows\EmbedIO.dll
+C:\Users\lukas\Desktop\ShortcutButtonApp\ShortcutButtonApp\bin\Release\net6.0-windows\Google.Apis.dll
+C:\Users\lukas\Desktop\ShortcutButtonApp\ShortcutButtonApp\bin\Release\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\lukas\Desktop\ShortcutButtonApp\ShortcutButtonApp\bin\Release\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\lukas\Desktop\ShortcutButtonApp\ShortcutButtonApp\bin\Release\net6.0-windows\Google.Apis.Core.dll
+C:\Users\lukas\Desktop\ShortcutButtonApp\ShortcutButtonApp\bin\Release\net6.0-windows\Google.Apis.YouTube.v3.dll
+C:\Users\lukas\Desktop\ShortcutButtonApp\ShortcutButtonApp\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\lukas\Desktop\ShortcutButtonApp\ShortcutButtonApp\bin\Release\net6.0-windows\SpotifyAPI.Web.dll
+C:\Users\lukas\Desktop\ShortcutButtonApp\ShortcutButtonApp\bin\Release\net6.0-windows\SpotifyAPI.Web.Auth.dll
+C:\Users\lukas\Desktop\ShortcutButtonApp\ShortcutButtonApp\bin\Release\net6.0-windows\Swan.Lite.dll
+C:\Users\lukas\Desktop\ShortcutButtonApp\ShortcutButtonApp\bin\Release\net6.0-windows\TagLibSharp.dll
+C:\Users\lukas\Desktop\ShortcutButtonApp\ShortcutButtonApp\obj\Release\net6.0-windows\ShortcutButtonApp.g.resources
